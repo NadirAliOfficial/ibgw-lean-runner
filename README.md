@@ -256,4 +256,4 @@ This service provides:
 * Ready automation for Windows mini-PC
 
 If you need further extensions (multiple underlyings, logs, metrics, retry logic), they can be added easily.
-<!-- updated: 2025-08-18-r01 -->
+<!-- updated: 2024-11-14 -->
