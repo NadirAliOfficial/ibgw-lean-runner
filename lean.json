@@ -1,0 +1,12 @@
+{
+    "organization-id": 0,
+    "project-id": 0,
+    "data-directory": "data",
+    "python-venv": "venv",
+    "environment": "local",
+    "ibkr-data": false,
+    "auto-update": false,
+    "engine-config": {
+        "algorithm-language": "Python"
+    }
+}
