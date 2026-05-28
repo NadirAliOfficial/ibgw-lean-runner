@@ -257,3 +257,4 @@ This service provides:
 
 If you need further extensions (multiple underlyings, logs, metrics, retry logic), they can be added easily.
 
+<!-- updated: 2026-05-28 -->
