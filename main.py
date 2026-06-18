@@ -49,7 +49,7 @@ def validate_contracts(contracts):
 
 def main():
     # Load LEAN output
-    with open(INPUT_FILE) as f:
+    with open(INPUT_FILE, encoding="utf-8") as f:
         raw = json.load(f)
 
     connect_ibkr()
