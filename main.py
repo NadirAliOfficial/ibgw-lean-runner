@@ -26,7 +26,7 @@ def connect_ibkr():
 def validate_contracts(contracts):
     validated = []
     print(f"Validating {len(contracts)} contracts...")
-    
+
     for c in contracts:
         try:
             opt = Option(
